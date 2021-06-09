@@ -4,4 +4,5 @@
 <h2>說明</h2>
 <ul>
 <li>ajax導入特定的資料後，使用JSON.parse讓文字變成物件結構，就可以在不更變html的情況下，改變資料。</li>
+  <li>導入資料網址：https://awiclass.monoame.com/api/command.php?type=get&name=tododata</li>
 </ul>
